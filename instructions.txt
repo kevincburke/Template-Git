@@ -1,0 +1,18 @@
+
+	Hello and welcome to the Zupa Flash Template.
+	
+	You probably would like to know how to customize this project to your needs...
+	
+	Well, first, let's rename the project!
+	
+		1. Right click the Template project in the Package Exploreer and select 'Copy.'
+		2. Name the project whatever you want (i.e. 'MyProject');
+		3. Open the src folder's (default package) and right click Template.as
+		4. Choose 'Rename...'
+		5. Enter the same name as in Step 2.
+	
+	Great!
+	
+	Before launching your application, make sure you:
+		1. Publish your graphics.fla (Shift + Cmd + F12 for debug messages)
+		2. Publish your preloader.fla (Shift + Cmd + F12 for debug messages)
